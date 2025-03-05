@@ -75,13 +75,16 @@ body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
   width: 100%;
   text-align: left;
   overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end; /* Align items to the bottom */
-  position: fixed; /* Fix the image container to the viewport */
-  bottom: 0; /* Align to the bottom */
+  /* display: block; */
+  bottom: 30%;
+  /* top: 50%; */
+  /* align-content: baseline; */
+  /* flex-direction: column; */
+  /* justify-content: flex-end; */
+  position: fixed;
+  /* bottom: 0; */
   left: 0;
-  z-index: 10; /* Ensure image is above the list */
+  z-index: 10;
 }
 
 .project-image-display::-webkit-scrollbar {
@@ -137,7 +140,8 @@ max-height: 95vh;
     left: auto; /* Reset left positioning */
     height: auto; /* Reset height */
     z-index: auto; /* Reset z-index */
-  }}
+  }
+}
 
   @media (max-width: 767px) { /* Adjust the breakpoint as needed */
     body {
