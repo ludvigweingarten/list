@@ -92,8 +92,9 @@ body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
 }
 
 .project-image-display img {
-  max-width: 100%;
+  max-width: 89%;
   height: auto;
+  margin: 20px;
   max-height: 100%; /* Adjust max-height to fit within container */
   object-fit: contain;
 }
