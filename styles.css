@@ -30,7 +30,7 @@ body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
 }
 
 .heading-content {
-  color:  rgb(0, 0, 255);
+  color:  rgb(255, 0, 0);
 }
 
 .intro-text {
@@ -39,7 +39,7 @@ body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
   margin-block-end: 1em;
 }
 .projects-heading {
-  color: rgb(0, 0, 255);
+  color: rgb(255, 0, 0);
   margin-block-start: 0em;
   margin-block-end: 0em;
 }
@@ -107,7 +107,7 @@ body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
 }
 
 #project-list li.active {
-  color: rgb(0, 0, 255);
+  color: rgb(255, 0, 0);
 }
 
 .project-image-display > div {
