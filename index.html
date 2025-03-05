@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="heading">Office Oblitas Weingarten</div>
+    <div class="landing-container">
+        <img id="landing-image" src="" alt="Landing Image" class="full-bleed-image">
+    </div>
+    <script src="script.js"></script>
+    <script>
+        loadLandingImage();
+        const landingImage = document.getElementById('landing-image');
+        landingImage.addEventListener('click', function(){
+            window.location.href = "content.html";
+        })
+        window.addEventListener('scroll', function(){
+            if(window.scrollY>100){
+                window.location.href="content.html";
+            }
+        })
+    </script>
+</body>
+</html>

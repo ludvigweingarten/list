@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  font-family: 'StyreneA';
+  font-size: 22px;
+  line-height: 28px;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+  padding: 30px;
+}
+
+body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
+  display: none;
+}
+
+
+@font-face {
+  font-family: 'StyreneA';
+  src: url('/assets/StyreneA-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.heading {
+  color: white;
+  position: absolute;
+  z-index: 10;
+}
+
+.heading-content {
+  color:  rgb(0, 0, 255);
+}
+
+.intro-text {
+  color: rgb(0, 0, 0);
+  margin-block-start: 0em;
+  margin-block-end: 1em;
+}
+.projects-heading {
+  color: rgb(0, 0, 255);
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+.landing-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.full-bleed-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.project-section {
+  display: flex;
+  flex-direction: column-reverse; /* Stack image on top of list */
+}
+
+.project-index {
+  width: 100%;
+  margin-top: 0px;
+  overflow-y: auto;
+}
+
+.project-image-display {
+  width: 100%;
+  text-align: left;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* Align items to the bottom */
+  position: fixed; /* Fix the image container to the viewport */
+  bottom: 0; /* Align to the bottom */
+  left: 0;
+  z-index: 10; /* Ensure image is above the list */
+}
+
+.project-image-display::-webkit-scrollbar {
+  display: none;
+}
+
+.project-image-display img {
+  max-width: 100%;
+  height: auto;
+  max-height: 100%; /* Adjust max-height to fit within container */
+  object-fit: contain;
+}
+
+#project-list {
+  list-style: none;
+  padding-left: 0px;
+  margin-top: 0px;
+  color: rgb(0, 0, 0);
+}
+
+#project-list li.active {
+  color: rgb(0, 0, 255);
+}
+
+.project-image-display > div {
+  text-align: left;
+  white-space: pre-line;
+}
+
+
+@media (min-width: 768px) {
+
+  .project-section {
+    flex-direction: row; /* Restore original order on larger screens */
+    height: auto;
+  }
+
+  .project-index {
+    width: 45%;
+    height: auto;
+    overflow-y: visible;
+    margin-bottom: 0; /* Reset margin */
+  }
+
+  .project-image-display {
+    width: 45%;
+max-height: 95vh;
+    text-align: right;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    bottom: auto; /* Reset bottom positioning */
+    left: auto; /* Reset left positioning */
+    height: auto; /* Reset height */
+    z-index: auto; /* Reset z-index */
+  }}
+
+  @media (max-width: 767px) { /* Adjust the breakpoint as needed */
+    body {
+      font-size: 14px; /* Set the desired font size for mobile */
+      line-height: 20px; /* Adjust line-height for better readability */
+      padding: 14px;
+    }
+  
+    .project-image-display img { 
+      position: relative; /* To allow positioning the caption within */
+    }
+  
+    .project-image-display p {
+      margin-block-start: 0em;
+    margin-block-end: 1em;
+      color: white;
+      text-align: left;
+      margin-bottom: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      padding: 14px;
+      padding-top: 12px;
+    }
+  }
