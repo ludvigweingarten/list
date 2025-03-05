@@ -1,306 +1,210 @@
 {
     "projects": [
         {
-            "title": "An exhibition campaign for Moderna Museet in Stockholm",
+            "title": "An exhibition campaign for Moderna Museet",
             "image": "images/projects/project1.jpg",
             "caption": "Caption for project 1" 
         },
         {
-            "title":"An identity guideline for Pull & Bear in Madrid",
+            "title":"An identity guideline for Pull & Bearx",
             "image":"images/projects/project3.jpg",
             "caption": "Caption for project 2" 
             
         },
     {
-        "title": "An Magazine for Tom Wood in Oslo",
+        "title": "An Magazine for Tom Wood",
         "image": "images/projects/project4.png",
         "caption": "Caption for project 2" 
     },
     {
-        "title":"A pop-up event for Vitra in Zürich",
+        "title":"A pop-up event for Vitra",
         "image":"images/projects/project3.jpg",
         "caption": "Caption for project 2" 
     },
     {
-        "title": "A sound identity ecosystem for ICA in Stockholm",
+        "title": "A sound identity ecosystem for ICA",
         "image": "images/projects/project2.jpg",
         "caption": "Caption for project 2" 
     },
     {
-        "title":"An identity guideline for H&M in Stockholm",
+        "title":"An identity guideline for H&M",
         "image":"images/projects/project3.jpg",
         "caption": "Caption for project 2" 
     },
     {
-        "title": "An exhibition campaign for Moderna Museet in Stockholm",
+        "title": "An exhibition campaign for Moderna Museet",
         "image": "images/projects/project2.jpg",
         "caption": "Caption for project 2" 
     },
     {
-        "title":"A brand identity for a Tom Wood in Oslo",
+        "title":"A brand identity for a Tom Wood",
         "image":"images/projects/project3.jpg",
         "caption": "Caption for project 2" 
     },
     {
-        "title": "An exhibition campaign for Moderna Museet in Stockholm",
+        "title": "An exhibition campaign for Moderna Museet",
         "image": "images/projects/project1.jpg",
         "caption": "Caption for project 1" 
     },
     {
-        "title":"An identity guideline for Pull & Bear in Madrid",
+        "title":"An identity guideline for Pull & Bear",
+        "image":"images/projects/project3.jpg",
+        "caption": "Caption for project 2" 
+        
+    },
+    {
+        "title": "An exhibition campaign for Moderna Museet",
+        "image": "images/projects/project1.jpg",
+        "caption": "Caption for project 1" 
+    },
+    {
+        "title":"An identity guideline for Pull & Bearx",
         "image":"images/projects/project3.jpg",
         "caption": "Caption for project 2" 
         
     },
 {
-    "title": "An Magazine for Tom Wood in Oslo",
+    "title": "An Magazine for Tom Wood",
     "image": "images/projects/project4.png",
     "caption": "Caption for project 2" 
 },
 {
-    "title":"A pop-up event for Vitra in Zürich",
+    "title":"A pop-up event for Vitra",
     "image":"images/projects/project3.jpg",
     "caption": "Caption for project 2" 
 },
 {
-    "title": "A sound identity ecosystem for ICA in Stockholm",
+    "title": "A sound identity ecosystem for ICA",
     "image": "images/projects/project2.jpg",
     "caption": "Caption for project 2" 
 },
 {
-    "title":"An identity guideline for H&M in Stockholm",
+    "title":"An identity guideline for H&M",
     "image":"images/projects/project3.jpg",
     "caption": "Caption for project 2" 
 },
 {
-    "title": "An exhibition campaign for Moderna Museet in Stockholm",
+    "title": "An exhibition campaign for Moderna Museet",
     "image": "images/projects/project2.jpg",
     "caption": "Caption for project 2" 
 },
 {
-    "title":"A brand identity for a Tom Wood in Oslo",
+    "title":"A brand identity for a Tom Wood",
     "image":"images/projects/project3.jpg",
     "caption": "Caption for project 2" 
-},{
-    "title": "An exhibition campaign for Moderna Museet in Stockholm",
+},
+{
+    "title": "An exhibition campaign for Moderna Museet",
     "image": "images/projects/project1.jpg",
     "caption": "Caption for project 1" 
 },
 {
-    "title":"An identity guideline for Pull & Bear in Madrid",
+    "title":"An identity guideline for Pull & Bear",
+    "image":"images/projects/project3.jpg",
+    "caption": "Caption for project 2" 
+    
+}, {
+    "title": "An exhibition campaign for Moderna Museet",
+    "image": "images/projects/project1.jpg",
+    "caption": "Caption for project 1" 
+},
+{
+    "title":"An identity guideline for Pull & Bearx",
     "image":"images/projects/project3.jpg",
     "caption": "Caption for project 2" 
     
 },
 {
-"title": "An Magazine for Tom Wood in Oslo",
+"title": "An Magazine for Tom Wood",
 "image": "images/projects/project4.png",
 "caption": "Caption for project 2" 
 },
 {
-"title":"A pop-up event for Vitra in Zürich",
+"title":"A pop-up event for Vitra",
 "image":"images/projects/project3.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title": "A sound identity ecosystem for ICA in Stockholm",
+"title": "A sound identity ecosystem for ICA",
 "image": "images/projects/project2.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title":"An identity guideline for H&M in Stockholm",
+"title":"An identity guideline for H&M",
 "image":"images/projects/project3.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title": "An exhibition campaign for Moderna Museet in Stockholm",
+"title": "An exhibition campaign for Moderna Museet",
 "image": "images/projects/project2.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title":"A brand identity for a Tom Wood in Oslo",
+"title":"A brand identity for a Tom Wood",
 "image":"images/projects/project3.jpg",
 "caption": "Caption for project 2" 
-},{
-    "title": "An exhibition campaign for Moderna Museet in Stockholm",
+},
+{
+"title": "An exhibition campaign for Moderna Museet",
+"image": "images/projects/project1.jpg",
+"caption": "Caption for project 1" 
+},
+{
+"title":"An identity guideline for Pull & Bear",
+"image":"images/projects/project3.jpg",
+"caption": "Caption for project 2" 
+
+}, {
+    "title": "An exhibition campaign for Moderna Museet",
     "image": "images/projects/project1.jpg",
     "caption": "Caption for project 1" 
 },
 {
-    "title":"An identity guideline for Pull & Bear in Madrid",
+    "title":"An identity guideline for Pull & Bearx",
     "image":"images/projects/project3.jpg",
     "caption": "Caption for project 2" 
     
 },
 {
-"title": "An Magazine for Tom Wood in Oslo",
+"title": "An Magazine for Tom Wood",
 "image": "images/projects/project4.png",
 "caption": "Caption for project 2" 
 },
 {
-"title":"A pop-up event for Vitra in Zürich",
+"title":"A pop-up event for Vitra",
 "image":"images/projects/project3.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title": "A sound identity ecosystem for ICA in Stockholm",
+"title": "A sound identity ecosystem for ICA",
 "image": "images/projects/project2.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title":"An identity guideline for H&M in Stockholm",
+"title":"An identity guideline for H&M",
 "image":"images/projects/project3.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title": "An exhibition campaign for Moderna Museet in Stockholm",
+"title": "An exhibition campaign for Moderna Museet",
 "image": "images/projects/project2.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title":"A brand identity for a Tom Wood in Oslo",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},{
-    "title": "An exhibition campaign for Moderna Museet in Stockholm",
-    "image": "images/projects/project1.jpg",
-    "caption": "Caption for project 1" 
-},
-{
-    "title":"An identity guideline for Pull & Bear in Madrid",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-    
-},
-{
-"title": "An Magazine for Tom Wood in Oslo",
-"image": "images/projects/project4.png",
-"caption": "Caption for project 2" 
-},
-{
-"title":"A pop-up event for Vitra in Zürich",
+"title":"A brand identity for a Tom Wood",
 "image":"images/projects/project3.jpg",
 "caption": "Caption for project 2" 
 },
 {
-"title": "A sound identity ecosystem for ICA in Stockholm",
-"image": "images/projects/project2.jpg",
-"caption": "Caption for project 2" 
+"title": "An exhibition campaign for Moderna Museet",
+"image": "images/projects/project1.jpg",
+"caption": "Caption for project 1" 
 },
 {
-"title":"An identity guideline for H&M in Stockholm",
+"title":"An identity guideline for Pull & Bear",
 "image":"images/projects/project3.jpg",
 "caption": "Caption for project 2" 
-},
-{
-"title": "An exhibition campaign for Moderna Museet in Stockholm",
-"image": "images/projects/project2.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title":"A brand identity for a Tom Wood in Oslo",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},{
-    "title": "An exhibition campaign for Moderna Museet in Stockholm",
-    "image": "images/projects/project1.jpg",
-    "caption": "Caption for project 1" 
-},
-{
-    "title":"An identity guideline for Pull & Bear in Madrid",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-    
-},
-{
-"title": "An Magazine for Tom Wood in Oslo",
-"image": "images/projects/project4.png",
-"caption": "Caption for project 2" 
-},
-{
-"title":"A pop-up event for Vitra in Zürich",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title": "A sound identity ecosystem for ICA in Stockholm",
-"image": "images/projects/project2.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title":"An identity guideline for H&M in Stockholm",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title": "An exhibition campaign for Moderna Museet in Stockholm",
-"image": "images/projects/project2.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title":"A brand identity for a Tom Wood in Oslo",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},{
-    "title": "An exhibition campaign for Moderna Museet in Stockholm",
-    "image": "images/projects/project1.jpg",
-    "caption": "Caption for project 1" 
-},
-{
-    "title":"An identity guideline for Pull & Bear in Madrid",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-    
-},
-{
-"title": "An Magazine for Tom Wood in Oslo",
-"image": "images/projects/project4.png",
-"caption": "Caption for project 2" 
-},
-{
-"title":"A pop-up event for Vitra in Zürich",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title": "A sound identity ecosystem for ICA in Stockholm",
-"image": "images/projects/project2.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title":"An identity guideline for H&M in Stockholm",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title": "An exhibition campaign for Moderna Museet in Stockholm",
-"image": "images/projects/project2.jpg",
-"caption": "Caption for project 2" 
-},
-{
-"title":"A brand identity for a Tom Wood in Oslo",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
-},{
-    "title": "An exhibition campaign for Moderna Museet in Stockholm",
-    "image": "images/projects/project1.jpg",
-    "caption": "Caption for project 1" 
-},
-{
-    "title":"An identity guideline for Pull & Bear in Madrid",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-    
-},
-{
-"title": "An Magazine for Tom Wood in Oslo",
-"image": "images/projects/project4.png",
-"caption": "Caption for project 2" 
-},
-{
-"title":"A pop-up event for Vitra in Zürich",
-"image":"images/projects/project3.jpg",
-"caption": "Caption for project 2" 
+
 }
     ]
 }
