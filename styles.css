@@ -138,8 +138,8 @@ max-height: 95vh;
 
   @media (max-width: 767px) { /* Adjust the breakpoint as needed */
     body {
-      font-size: 24px; /* Set the desired font size for mobile */
-      line-height: 30px; /* Adjust line-height for better readability */
+      font-size: 23px; /* Set the desired font size for mobile */
+      line-height: 28px; /* Adjust line-height for better readability */
       padding: 14px;
     }
   
