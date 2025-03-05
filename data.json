@@ -7,13 +7,13 @@
         },
         {
             "title":"An identity guideline for Pull & Bear",
-            "image":"images/projects/project3.jpg",
+            "image":"images/projects/project2.jpg",
             "caption": "Caption for project 2" 
             
         },
     {
         "title": "An Magazine for Tom Wood",
-        "image": "images/projects/project4.png",
+        "image": "images/projects/project5.jpg",
         "caption": "Caption for project 2" 
     },
     {
@@ -23,100 +23,64 @@
     },
     {
         "title": "A sound identity ecosystem for ICA",
-        "image": "images/projects/project2.jpg",
+        "image": "images/projects/project5.jpg",
         "caption": "Caption for project 2" 
     },
     {
         "title":"An identity guideline for H&M",
-        "image":"images/projects/project3.jpg",
+        "image":"images/projects/project6.jpg",
         "caption": "Caption for project 2" 
     },
     {
         "title": "An exhibition identity for Moderna Museet",
-        "image": "images/projects/project2.jpg",
+        "image": "images/projects/project7.jpg",
         "caption": "Caption for project 2" 
     },
     {
         "title":"A brand identity for a Tom Wood",
-        "image":"images/projects/project3.jpg",
+        "image":"images/projects/project8.jpg",
         "caption": "Caption for project 2" 
     },
     {
         "title": "An exhibition identity for Moderna Museet",
-        "image": "images/projects/project1.jpg",
+        "image": "images/projects/project9.jpg",
         "caption": "Caption for project 1" 
     },
     {
         "title":"An identity guideline for Pull & Bear",
-        "image":"images/projects/project3.jpg",
+        "image":"images/projects/project10.jpg",
         "caption": "Caption for project 2" 
         
     },
     {
         "title": "An exhibition identity for Moderna Museet",
-        "image": "images/projects/project1.jpg",
+        "image": "images/projects/project11.jpg",
         "caption": "Caption for project 1" 
     },
     {
         "title":"An identity guideline for Pull & Bear",
-        "image":"images/projects/project3.jpg",
+        "image":"images/projects/project12.jpg",
         "caption": "Caption for project 2" 
         
     },
 {
     "title": "An Magazine for Tom Wood",
-    "image": "images/projects/project4.png",
+    "image": "images/projects/project13.jpg",
     "caption": "Caption for project 2" 
-},
-{
-    "title":"A pop-up event for Vitra",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-},
-{
-    "title": "A sound identity ecosystem for ICA",
-    "image": "images/projects/project2.jpg",
-    "caption": "Caption for project 2" 
-},
-{
-    "title":"An identity guideline for H&M",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-},
-{
-    "title": "An exhibition identity for Moderna Museet",
-    "image": "images/projects/project2.jpg",
-    "caption": "Caption for project 2" 
-},
-{
-    "title":"A brand identity for a Tom Wood",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-},
-{
+},{
     "title": "An exhibition identity for Moderna Museet",
     "image": "images/projects/project1.jpg",
     "caption": "Caption for project 1" 
 },
 {
     "title":"An identity guideline for Pull & Bear",
-    "image":"images/projects/project3.jpg",
-    "caption": "Caption for project 2" 
-    
-}, {
-    "title": "An exhibition identity for Moderna Museet",
-    "image": "images/projects/project1.jpg",
-    "caption": "Caption for project 1" 
-},
-{
-    "title":"An identity guideline for Pull & Bear",
-    "image":"images/projects/project3.jpg",
+    "image":"images/projects/project2.jpg",
     "caption": "Caption for project 2" 
     
 },
 {
 "title": "An Magazine for Tom Wood",
-"image": "images/projects/project4.png",
+"image": "images/projects/project5.jpg",
 "caption": "Caption for project 2" 
 },
 {
@@ -126,48 +90,64 @@
 },
 {
 "title": "A sound identity ecosystem for ICA",
-"image": "images/projects/project2.jpg",
+"image": "images/projects/project5.jpg",
 "caption": "Caption for project 2" 
 },
 {
 "title":"An identity guideline for H&M",
-"image":"images/projects/project3.jpg",
+"image":"images/projects/project6.jpg",
 "caption": "Caption for project 2" 
 },
 {
-    "title": "An exhibition identity for Moderna Museet",
-"image": "images/projects/project2.jpg",
+"title": "An exhibition identity for Moderna Museet",
+"image": "images/projects/project7.jpg",
 "caption": "Caption for project 2" 
 },
 {
 "title":"A brand identity for a Tom Wood",
-"image":"images/projects/project3.jpg",
+"image":"images/projects/project8.jpg",
 "caption": "Caption for project 2" 
 },
 {
-    "title": "An exhibition identity for Moderna Museet",
-"image": "images/projects/project1.jpg",
+"title": "An exhibition identity for Moderna Museet",
+"image": "images/projects/project9.jpg",
 "caption": "Caption for project 1" 
 },
 {
 "title":"An identity guideline for Pull & Bear",
-"image":"images/projects/project3.jpg",
+"image":"images/projects/project10.jpg",
 "caption": "Caption for project 2" 
 
-}, {
+},
+{
+"title": "An exhibition identity for Moderna Museet",
+"image": "images/projects/project11.jpg",
+"caption": "Caption for project 1" 
+},
+{
+"title":"An identity guideline for Pull & Bear",
+"image":"images/projects/project12.jpg",
+"caption": "Caption for project 2" 
+
+},
+{
+"title": "An Magazine for Tom Wood",
+"image": "images/projects/project13.jpg",
+"caption": "Caption for project 2" 
+},{
     "title": "An exhibition identity for Moderna Museet",
     "image": "images/projects/project1.jpg",
     "caption": "Caption for project 1" 
 },
 {
     "title":"An identity guideline for Pull & Bear",
-    "image":"images/projects/project3.jpg",
+    "image":"images/projects/project2.jpg",
     "caption": "Caption for project 2" 
     
 },
 {
 "title": "An Magazine for Tom Wood",
-"image": "images/projects/project4.png",
+"image": "images/projects/project5.jpg",
 "caption": "Caption for project 2" 
 },
 {
@@ -177,34 +157,50 @@
 },
 {
 "title": "A sound identity ecosystem for ICA",
-"image": "images/projects/project2.jpg",
+"image": "images/projects/project5.jpg",
 "caption": "Caption for project 2" 
 },
 {
 "title":"An identity guideline for H&M",
-"image":"images/projects/project3.jpg",
+"image":"images/projects/project6.jpg",
 "caption": "Caption for project 2" 
 },
 {
-    "title": "An exhibition identity for Moderna Museet",
-"image": "images/projects/project2.jpg",
+"title": "An exhibition identity for Moderna Museet",
+"image": "images/projects/project7.jpg",
 "caption": "Caption for project 2" 
 },
 {
 "title":"A brand identity for a Tom Wood",
-"image":"images/projects/project3.jpg",
+"image":"images/projects/project8.jpg",
 "caption": "Caption for project 2" 
 },
 {
-    "title": "An exhibition identity for Moderna Museet",
-"image": "images/projects/project1.jpg",
+"title": "An exhibition identity for Moderna Museet",
+"image": "images/projects/project9.jpg",
 "caption": "Caption for project 1" 
 },
 {
 "title":"An identity guideline for Pull & Bear",
-"image":"images/projects/project3.jpg",
+"image":"images/projects/project10.jpg",
 "caption": "Caption for project 2" 
 
+},
+{
+"title": "An exhibition identity for Moderna Museet",
+"image": "images/projects/project11.jpg",
+"caption": "Caption for project 1" 
+},
+{
+"title":"An identity guideline for Pull & Bear",
+"image":"images/projects/project12.jpg",
+"caption": "Caption for project 2" 
+
+},
+{
+"title": "An Magazine for Tom Wood",
+"image": "images/projects/project13.jpg",
+"caption": "Caption for project 2" 
 }
     ]
 }

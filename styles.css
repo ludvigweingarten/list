@@ -21,7 +21,11 @@ body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
   display: none;
 }
 
+.project-image-display p {
 
+  display: none;
+}
+}
 
 .heading {
   color: white;
