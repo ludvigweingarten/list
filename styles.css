@@ -15,7 +15,7 @@ body::-webkit-scrollbar {  /* Chrome, Safari and Opera */
 
 @font-face {
   font-family: 'StyreneA';
-  src: url('/assets/StyreneA-Regular.otf') format('opentype');
+  src: url('/assets/StyreneA-Medium.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
