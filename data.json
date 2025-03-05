@@ -1,9 +1,9 @@
 {
     "projects": [
         {
-            "title": "test",
-            "image": "images/projects/project2.jpg",
-            "caption": "Caption for project 2" 
+            "title": "exhibition campaign for a cultural institution",
+            "image": "images/projects/project1.jpg",
+            "caption": "Caption for project 1" 
         },
         {
             "title":"identity guideline for a fashion organisation",

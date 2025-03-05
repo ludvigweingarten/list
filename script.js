@@ -31,22 +31,23 @@ function loadProjects() {
             let currentProjectIndex = -1;
 
             function updateProjectDisplay(index) {
-                if (index < 0 || index >= data.projects.length) return;
+                projectImageDisplay.innerHTML = ''; // Clear the display area
 
-                projectImageDisplay.innerHTML = '';
-                const project = data.projects[index];
+                if (index >= 0 && index < data.projects.length) {
+                    const project = data.projects[index];
 
-                if (project.image) {
-                    const img = document.createElement('img');
-                    img.id = 'project-image';
-                    img.src = project.image;
-                    img.alt = 'Project Image';
-                    projectImageDisplay.appendChild(img);
+                    if (project.image) {
+                        const img = document.createElement('img');
+                        img.id = 'project-image';
+                        img.src = project.image;
+                        img.alt = 'Project Image';
+                        projectImageDisplay.appendChild(img);
 
-                    if (project.caption) {
-                        const caption = document.createElement('p');
-                        caption.textContent = project.caption;
-                        projectImageDisplay.appendChild(caption);
+                        if (project.caption) {
+                            const caption = document.createElement('p');
+                            caption.textContent = project.caption;
+                            projectImageDisplay.appendChild(caption);
+                        }
                     }
                 }
 
@@ -60,7 +61,15 @@ function loadProjects() {
                 const lastItem = projectList.querySelector('li:last-child');
                 if (lastItem) {
                     const lastItemOffset = lastItem.getBoundingClientRect().top + window.scrollY;
-                    const extraSpace = window.innerHeight - lastItem.offsetHeight;
+                    
+                    let extraSpace = window.innerHeight - lastItem.offsetHeight + parseInt(window.getComputedStyle(lastItem).marginTop, 10);
+
+                    // Adjust extraSpace for mobile
+                    if (window.innerWidth <= 767) { // Adjust the breakpoint as needed
+                        const fontSize = parseInt(window.getComputedStyle(lastItem).fontSize, 10);
+                        extraSpace += fontSize / 2; // Add half the font size to extraSpace
+                    }
+            
                     document.body.style.minHeight = `${lastItemOffset + extraSpace + 20}px`;
                 }
             }
@@ -84,17 +93,18 @@ function loadProjects() {
                         }
                     });
                 } else if (rect.top > 0) {
-                    bestMatchIndex = -1; // Unselect the first item if scrolling past project-section upwards
+                    bestMatchIndex = -1;
                 }
 
-                if (bestMatchIndex !== currentProjectIndex) {
-                    currentProjectIndex = bestMatchIndex;
-                    updateProjectDisplay(currentProjectIndex);
-                }
+                currentProjectIndex = bestMatchIndex;
+                updateProjectDisplay(currentProjectIndex);
             }
 
             extendPageForLastItem();
             window.addEventListener("scroll", handleScroll);
+
+            // Call updateProjectDisplay once on page load
+            updateProjectDisplay(currentProjectIndex); 
         });
 }
 
